@@ -8,3 +8,5 @@ Pliki testowe
 - Odnośniki D
 #### `Informacja typu kwadrat`
 **Przykład diagramu**
+```mermaid
+SequenceDiagram
