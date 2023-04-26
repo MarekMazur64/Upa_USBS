@@ -10,3 +10,4 @@ Pliki testowe
 **Przykład diagramu**
 ```mermaid
 SequenceDiagram
+Pamięci EEPROM --> I2C
