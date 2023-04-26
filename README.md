@@ -12,4 +12,4 @@ Pliki testowe
 sequenceDiagram
 PamięciEEPROM ->> Microwire: wybórtypu
 Microwire ->> Organizacja: wybór odczytu_zapisu
-Note right of Microwire: Notatka
+Note right of Microwire: 8bit/16bit
