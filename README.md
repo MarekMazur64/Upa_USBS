@@ -9,5 +9,5 @@ Pliki testowe
 #### `Informacja typu kwadrat`
 **Przykład diagramu**
 ```mermaid
-SequenceDiagram
-Pamięci EEPROM ->> I2C
+sequenceDiagram
+PamięciEEPROM ->> I2C: wybór typu
