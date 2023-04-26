@@ -7,3 +7,4 @@ Pliki testowe
 - Odnośniki C
 - Odnośniki D
 #### `Informacja typu kwadrat`
+**Przykład diagramu**
