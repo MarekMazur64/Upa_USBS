@@ -4,5 +4,5 @@ Pliki testowe
 1. Odnośniki A
 2. Odnośniki B
 ## Przykłady 2
-1. Odnośniki C
-2. Odnośniki D
+- Odnośniki C
+- Odnośniki D
