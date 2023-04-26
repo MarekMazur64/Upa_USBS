@@ -10,6 +10,6 @@ Pliki testowe
 **Przykład diagramu**
 ```mermaid
 sequenceDiagram
-PamięciEEPROM ->> Microwire: wybórtypu
-Microwire ->> Organizacja: wybór odczytu_zapisu
+PamięciEEPROM ->> Microwire: wybór typu pamięci
+Microwire ->> Organizacja: wybór metody odczytu/zapisu
 Note right of Microwire: 8bit/16bit
