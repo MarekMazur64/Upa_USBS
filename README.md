@@ -12,3 +12,4 @@ Pliki testowe
 sequenceDiagram
 PamięciEEPROM ->> Microwire: wybórtypu
 Microwire ->> Organizacja: wybór odczytu_zapisu
+Note right of Microwire: Notatka
