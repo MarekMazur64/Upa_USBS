@@ -10,4 +10,5 @@ Pliki testowe
 **Przykład diagramu**
 ```mermaid
 sequenceDiagram
-PamięciEEPROM ->> I2C: wybór typu
+Pamięci EEPROM ->> Microwire: wybór typu
+Microwire ->> Organizacja
