@@ -6,3 +6,4 @@ Pliki testowe
 ## Przykłady 2
 - Odnośniki C
 - Odnośniki D
+- 'Informacja typu kwadrat'
