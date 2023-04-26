@@ -11,4 +11,4 @@ Pliki testowe
 ```mermaid
 sequenceDiagram
 PamięciEEPROM ->> Microwire: wybórtypu
-Microwire -->> Organizacja
+Microwire ->> Organizacja
