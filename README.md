@@ -10,5 +10,5 @@ Pliki testowe
 **Przykład diagramu**
 ```mermaid
 sequenceDiagram
-Pamięci EEPROM ->> Microwire: wybór typu
-Microwire ->> Organizacja
+PamięciEEPROM ->> Microwire: wybórtypu
+Microwire -->> Organizacja
